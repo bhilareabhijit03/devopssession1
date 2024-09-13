@@ -54,4 +54,3 @@ api.add_resource(ConvertTemp, '/convert-temp')
 
 if __name__ == '__main__':
     app.run(debug=True)
-
